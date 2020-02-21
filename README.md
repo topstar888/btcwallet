@@ -1,16 +1,12 @@
-# flutter_app
+# a btc usdt eth ltc coin wallet
 
-A new Flutter application.
+一个电子货币的通用钱包
 
-## Getting Started
+## 功能
 
-This project is a starting point for a Flutter application.
+转入转出，一键买卖，一键换汇
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 技术栈
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter 原生功能插件
