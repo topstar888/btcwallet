@@ -8,6 +8,6 @@
 
 ## 技术栈
 
-flutter 原生功能插件
+```Flutter Dart Kotlin/Java```
 
 - [区块链科技XYZ](https://bctech.xyz)
