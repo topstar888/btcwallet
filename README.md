@@ -10,4 +10,4 @@
 
 flutter 原生功能插件
 
--- [https://bctech.xyz/]
+- [区块链科技XYZ](https://bctech.xyz)
