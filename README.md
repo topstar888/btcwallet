@@ -9,5 +9,3 @@
 ## 技术栈
 
 ```Flutter Dart Kotlin/Java```
-
-- [区块链科技XYZ](https://bctech.xyz)
